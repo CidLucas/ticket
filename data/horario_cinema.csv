@@ -1,0 +1,271 @@
+sessao_id,cinema_id,nome_cinema,cidade,estado,pais,filme_id,titulo_filme,genero,classificacao,duracao_min,data,horario,sala
+1,1,Cinearte São Paulo,São Paulo,SP,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,16:00,5
+2,1,Cinearte São Paulo,São Paulo,SP,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:30,5
+3,1,Cinearte São Paulo,São Paulo,SP,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:00,3
+4,1,Cinearte São Paulo,São Paulo,SP,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,20:00,3
+5,1,Cinearte São Paulo,São Paulo,SP,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,18:30,7
+6,1,Cinearte São Paulo,São Paulo,SP,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,21:30,7
+7,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,15:30,2
+8,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,19:00,2
+9,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,14:00,1
+10,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:15,1
+11,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,22:00,4
+12,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:59,4
+13,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,18:00,8
+14,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,21:00,8
+15,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,19:30,6
+16,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,22:00,6
+17,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:00,9
+18,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,18:30,9
+19,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,16:30,3
+20,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,19:00,3
+21,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:00,2
+22,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:15,2
+23,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:30,5
+24,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:45,5
+25,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,15:30,4
+26,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,19:00,4
+27,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,17:00,1
+28,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,20:00,1
+29,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,18:30,3
+30,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,21:15,3
+31,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,16:00,6
+32,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,19:30,6
+33,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,22:00,5
+34,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,23:45,5
+35,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,19:00,2
+36,6,Multiplex Botafogo,Rio de Janeiro,RJ,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,22:15,2
+37,7,Cinearte BH,Belo Horizonte,MG,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,15:00,3
+38,7,Cinearte BH,Belo Horizonte,MG,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,17:00,3
+39,7,Cinearte BH,Belo Horizonte,MG,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,18:30,5
+40,7,Cinearte BH,Belo Horizonte,MG,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,21:30,5
+41,7,Cinearte BH,Belo Horizonte,MG,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:00,1
+42,7,Cinearte BH,Belo Horizonte,MG,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,22:00,1
+43,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,16:30,4
+44,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,19:00,4
+45,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,17:30,2
+46,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,20:30,2
+47,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,15:00,7
+48,8,Cinema Paradiso Savassi,Belo Horizonte,MG,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,18:30,7
+49,9,Multiplex Minas,Belo Horizonte,MG,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,14:30,3
+50,9,Multiplex Minas,Belo Horizonte,MG,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:45,3
+51,9,Multiplex Minas,Belo Horizonte,MG,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,21:00,6
+52,9,Multiplex Minas,Belo Horizonte,MG,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:00,6
+53,9,Multiplex Minas,Belo Horizonte,MG,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,18:00,1
+54,9,Multiplex Minas,Belo Horizonte,MG,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,21:30,1
+55,10,Cinearte Curitiba,Curitiba,PR,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,19:00,4
+56,10,Cinearte Curitiba,Curitiba,PR,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,22:00,4
+57,10,Cinearte Curitiba,Curitiba,PR,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:30,2
+58,10,Cinearte Curitiba,Curitiba,PR,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,19:00,2
+59,10,Cinearte Curitiba,Curitiba,PR,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,17:30,5
+60,10,Cinearte Curitiba,Curitiba,PR,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,20:30,5
+61,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:00,3
+62,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:30,3
+63,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:00,6
+64,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:30,6
+65,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,1
+66,11,Cinema Paradiso Batel,Curitiba,PR,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:15,1
+67,12,Multiplex Curitiba,Curitiba,PR,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,16:00,4
+68,12,Multiplex Curitiba,Curitiba,PR,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,19:00,4
+69,12,Multiplex Curitiba,Curitiba,PR,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,17:30,7
+70,12,Multiplex Curitiba,Curitiba,PR,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,20:15,7
+71,12,Multiplex Curitiba,Curitiba,PR,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,15:00,5
+72,12,Multiplex Curitiba,Curitiba,PR,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,18:30,5
+73,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,21:30,8
+74,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,23:15,8
+75,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,19:00,3
+76,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,22:00,3
+77,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,15:30,2
+78,13,Cinearte Porto Alegre,Porto Alegre,RS,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,17:15,2
+79,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,18:30,1
+80,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,21:30,1
+81,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,16:00,4
+82,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:00,4
+83,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,14:30,6
+84,14,Cinema Paradiso Moinhos,Porto Alegre,RS,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:00,6
+85,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,15:00,5
+86,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,18:30,5
+87,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,20:00,3
+88,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,22:30,3
+89,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:45,7
+90,15,Multiplex Beira-Rio,Porto Alegre,RS,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,18:30,7
+91,16,Cinearte Brasília,Brasília,DF,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,21:00,8
+92,16,Cinearte Brasília,Brasília,DF,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:00,8
+93,16,Cinearte Brasília,Brasília,DF,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,18:00,2
+94,16,Cinearte Brasília,Brasília,DF,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,21:30,2
+95,16,Cinearte Brasília,Brasília,DF,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,19:15,4
+96,16,Cinearte Brasília,Brasília,DF,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,22:00,4
+97,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:30,1
+98,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,19:00,1
+99,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,17:00,3
+100,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,20:00,3
+101,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:15,6
+102,17,Cinema Paradiso Asa Sul,Brasília,DF,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:30,6
+103,18,Multiplex Brasília,Brasília,DF,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,20:30,5
+104,18,Multiplex Brasília,Brasília,DF,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:00,5
+105,18,Multiplex Brasília,Brasília,DF,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,7
+106,18,Multiplex Brasília,Brasília,DF,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:15,7
+107,18,Multiplex Brasília,Brasília,DF,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,16:45,2
+108,18,Multiplex Brasília,Brasília,DF,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,19:00,2
+109,19,Cinearte Salvador,Salvador,BA,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,19:30,4
+110,19,Cinearte Salvador,Salvador,BA,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,22:00,4
+111,19,Cinearte Salvador,Salvador,BA,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,18:00,3
+112,19,Cinearte Salvador,Salvador,BA,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,21:00,3
+113,19,Cinearte Salvador,Salvador,BA,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,22:30,5
+114,19,Cinearte Salvador,Salvador,BA,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,00:15,5
+115,20,Cinema Paradiso Barra,Salvador,BA,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,17:30,1
+116,20,Cinema Paradiso Barra,Salvador,BA,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,21:00,1
+117,20,Cinema Paradiso Barra,Salvador,BA,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,15:00,2
+118,20,Cinema Paradiso Barra,Salvador,BA,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,17:00,2
+119,20,Cinema Paradiso Barra,Salvador,BA,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,19:30,6
+120,20,Cinema Paradiso Barra,Salvador,BA,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,22:30,6
+121,21,Multiplex Pelourinho,Salvador,BA,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,16:00,3
+122,21,Multiplex Pelourinho,Salvador,BA,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:00,3
+123,21,Multiplex Pelourinho,Salvador,BA,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,14:30,4
+124,21,Multiplex Pelourinho,Salvador,BA,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:00,4
+125,21,Multiplex Pelourinho,Salvador,BA,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,20:00,7
+126,21,Multiplex Pelourinho,Salvador,BA,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,23:00,7
+127,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,18:30,5
+128,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,21:30,5
+129,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,15:00,2
+130,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,17:00,2
+131,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,22:00,8
+132,22,Cinearte Fortaleza,Fortaleza,CE,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:45,8
+133,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,19:00,1
+134,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,22:30,1
+135,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,18:00,3
+136,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,21:00,3
+137,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,16:30,4
+138,23,Cinema Paradiso Iracema,Fortaleza,CE,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,20:00,4
+139,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,17:30,6
+140,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,20:30,6
+141,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:45,7
+142,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,17:00,7
+143,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:15,2
+144,24,Multiplex Beira Mar,Fortaleza,CE,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:30,2
+145,25,Cinearte Manaus,Manaus,AM,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,3
+146,25,Cinearte Manaus,Manaus,AM,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:00,3
+147,25,Cinearte Manaus,Manaus,AM,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,19:30,1
+148,25,Cinearte Manaus,Manaus,AM,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,22:00,1
+149,25,Cinearte Manaus,Manaus,AM,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,16:00,4
+150,25,Cinearte Manaus,Manaus,AM,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,19:00,4
+151,26,Cinema Paradiso Centro,Manaus,AM,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,15:30,2
+152,26,Cinema Paradiso Centro,Manaus,AM,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,18:30,2
+153,26,Cinema Paradiso Centro,Manaus,AM,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,21:00,5
+154,26,Cinema Paradiso Centro,Manaus,AM,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,23:00,5
+155,26,Cinema Paradiso Centro,Manaus,AM,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,17:00,6
+156,26,Cinema Paradiso Centro,Manaus,AM,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,20:15,6
+157,27,Multiplex Amazonas,Manaus,AM,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,14:00,7
+158,27,Multiplex Amazonas,Manaus,AM,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,16:00,7
+159,27,Multiplex Amazonas,Manaus,AM,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,18:30,8
+160,27,Multiplex Amazonas,Manaus,AM,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,21:30,8
+161,27,Multiplex Amazonas,Manaus,AM,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:45,3
+162,27,Multiplex Amazonas,Manaus,AM,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,22:30,3
+163,28,Cinearte NY,Nova Iorque,NY,EUA,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:00,4
+164,28,Cinearte NY,Nova Iorque,NY,EUA,2,Amor em Veneza,Romance,Livre,110,2023-12-15,20:00,4
+165,28,Cinearte NY,Nova Iorque,NY,EUA,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,18:30,2
+166,28,Cinearte NY,Nova Iorque,NY,EUA,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,21:30,2
+167,28,Cinearte NY,Nova Iorque,NY,EUA,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,15:00,5
+168,28,Cinearte NY,Nova Iorque,NY,EUA,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,18:30,5
+169,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,14:30,3
+170,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:45,3
+171,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,21:00,6
+172,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:00,6
+173,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,7,Coração de Herói,Ação,12 anos,140,2023-12-15,19:00,1
+174,29,Cinema Paradiso Manhattan,Nova Iorque,NY,EUA,7,Coração de Herói,Ação,12 anos,140,2023-12-15,22:30,1
+175,30,Multiplex Central Park,Nova Iorque,NY,EUA,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,17:30,7
+176,30,Multiplex Central Park,Nova Iorque,NY,EUA,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,20:30,7
+177,30,Multiplex Central Park,Nova Iorque,NY,EUA,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:00,8
+178,30,Multiplex Central Park,Nova Iorque,NY,EUA,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,18:30,8
+179,30,Multiplex Central Park,Nova Iorque,NY,EUA,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,16:00,4
+180,30,Multiplex Central Park,Nova Iorque,NY,EUA,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,19:00,4
+181,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:00,2
+182,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:30,2
+183,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:00,5
+184,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:30,5
+185,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,1
+186,31,Cinearte Florianópolis,Florianópolis,SC,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:15,1
+187,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,17:30,3
+188,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,20:00,3
+189,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,15:45,6
+190,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,18:30,6
+191,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,19:15,4
+192,32,Cinema Paradiso Beira Mar,Florianópolis,SC,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,22:00,4
+193,33,Multiplex Trindade,Florianópolis,SC,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,22:15,7
+194,33,Multiplex Trindade,Florianópolis,SC,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,00:00,7
+195,33,Multiplex Trindade,Florianópolis,SC,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,18:30,5
+196,33,Multiplex Trindade,Florianópolis,SC,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,21:45,5
+197,33,Multiplex Trindade,Florianópolis,SC,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,16:00,2
+198,33,Multiplex Trindade,Florianópolis,SC,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,18:00,2
+199,34,Cinearte Campinas,Campinas,SP,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,19:00,3
+200,34,Cinearte Campinas,Campinas,SP,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,22:00,3
+201,34,Cinearte Campinas,Campinas,SP,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,17:30,1
+202,34,Cinearte Campinas,Campinas,SP,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,20:30,1
+203,34,Cinearte Campinas,Campinas,SP,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,15:00,4
+204,34,Cinearte Campinas,Campinas,SP,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:30,4
+205,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,18:00,6
+206,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,21:00,6
+207,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,16:30,2
+208,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,19:30,2
+209,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,14:45,5
+210,35,Cinema Paradiso Cambuí,Campinas,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,17:00,5
+211,36,Multiplex Taquaral,Campinas,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,21:30,8
+212,36,Multiplex Taquaral,Campinas,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:15,8
+213,36,Multiplex Taquaral,Campinas,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,18:30,7
+214,36,Multiplex Taquaral,Campinas,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,22:00,7
+215,36,Multiplex Taquaral,Campinas,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,19:00,3
+216,36,Multiplex Taquaral,Campinas,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,21:30,3
+217,37,Cinearte Recife,Recife,PE,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:30,1
+218,37,Cinearte Recife,Recife,PE,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,19:00,1
+219,37,Cinearte Recife,Recife,PE,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,17:00,4
+220,37,Cinearte Recife,Recife,PE,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,20:00,4
+221,37,Cinearte Recife,Recife,PE,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:15,2
+222,37,Cinearte Recife,Recife,PE,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:30,2
+223,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:00,5
+224,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:30,5
+225,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,3
+226,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:15,3
+227,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,16:45,6
+228,38,Cinema Paradiso Boa Viagem,Recife,PE,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,19:00,6
+229,39,Multiplex Recife Antigo,Recife,PE,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,17:30,7
+230,39,Multiplex Recife Antigo,Recife,PE,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,20:15,7
+231,39,Multiplex Recife Antigo,Recife,PE,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,15:00,8
+232,39,Multiplex Recife Antigo,Recife,PE,Brasil,16,O Guardião,Ação,14 anos,118,2023-12-15,18:30,8
+233,39,Multiplex Recife Antigo,Recife,PE,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,22:00,4
+234,39,Multiplex Recife Antigo,Recife,PE,Brasil,17,O Último Suspiro,Terror,18 anos,98,2023-12-15,23:45,4
+235,40,Cinearte Vitória,Vitória,ES,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,19:00,2
+236,40,Cinearte Vitória,Vitória,ES,Brasil,18,Vida em Preto e Branco,Drama,12 anos,125,2023-12-15,22:00,2
+237,40,Cinearte Vitória,Vitória,ES,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,15:30,1
+238,40,Cinearte Vitória,Vitória,ES,Brasil,19,O Show do Século,Comédia,Livre,92,2023-12-15,17:15,1
+239,40,Cinearte Vitória,Vitória,ES,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,18:30,3
+240,40,Cinearte Vitória,Vitória,ES,Brasil,20,O Despertar,Ficção Científica,14 anos,132,2023-12-15,21:30,3
+241,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,16:00,4
+242,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,1,O Último Portal,Ficção Científica,12 anos,120,2023-12-15,19:00,4
+243,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,14:30,5
+244,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,2,Amor em Veneza,Romance,Livre,110,2023-12-15,17:00,5
+245,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,20:00,6
+246,41,Cinema Paradiso Praia do Canto,Vitória,ES,Brasil,3,A Herança Perdida,Aventura,14 anos,130,2023-12-15,23:00,6
+247,42,Multiplex Vitória,Vitória,ES,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,18:30,7
+248,42,Multiplex Vitória,Vitória,ES,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,21:30,7
+249,42,Multiplex Vitória,Vitória,ES,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:45,8
+250,42,Multiplex Vitória,Vitória,ES,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,18:30,8
+251,42,Multiplex Vitória,Vitória,ES,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,22:00,3
+252,42,Multiplex Vitória,Vitória,ES,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:45,3
+253,43,Cinearte São Luís,São Luís,MA,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,19:00,1
+254,43,Cinearte São Luís,São Luís,MA,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,22:30,1
+255,43,Cinearte São Luís,São Luís,MA,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,18:00,4
+256,43,Cinearte São Luís,São Luís,MA,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,21:00,4
+257,43,Cinearte São Luís,São Luís,MA,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,16:30,2
+258,43,Cinearte São Luís,São Luís,MA,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,20:00,2
+259,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,17:30,3
+260,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,20:30,3
+261,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:45,5
+262,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,17:00,5
+263,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:15,6
+264,44,Cinema Paradiso Renascença,São Luís,MA,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:30,6
+265,45,Multiplex São Luís,São Luís,MA,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,18:00,7
+266,45,Multiplex São Luís,São Luís,MA,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,21:15,7
+267,45,Multiplex São Luís,São Luís,MA,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,16:45,8
+268,45,Multiplex São Luís,São Luís,MA,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,19:00,8
+269,45,Multiplex São Luís,São Luís,MA,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,15:00,9
+270,45,Multiplex São Luís,São Luís,MA,Brasil,15,Conexão Paris,Romance,12 anos,107,2023-12-15,18:30,9
