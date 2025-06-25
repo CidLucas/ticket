@@ -17,23 +17,6 @@ csv_data = """sessao_id,cinema_id,nome_cinema,cidade,estado,pais,filme_id,titulo
 8,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,4,O Enigma do Tempo,Ficção Científica,14 anos,125,2023-12-15,19:00,2
 9,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,14:00,1
 10,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,5,Riso e Gargalhadas,Comédia,Livre,95,2023-12-15,16:15,1
-11,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,22:00,4
-12,2,Cinema Paradiso Paulista,São Paulo,SP,Brasil,6,Sussurros na Escuridão,Terror,16 anos,105,2023-12-15,23:59,4
-13,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,18:00,8
-14,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,7,Coração de Herói,Ação,12 anos,140,2023-12-15,21:00,8
-15,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,19:30,6
-16,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,8,Dança dos Destinos,Drama,14 anos,115,2023-12-15,22:00,6
-17,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,15:00,9
-18,3,Multiplex Ibirapuera,São Paulo,SP,Brasil,9,Missão Marte,Ficção Científica,10 anos,135,2023-12-15,18:30,9
-19,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,16:30,3
-20,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,10,O Segredo de Sofia,Drama,12 anos,118,2023-12-15,19:00,3
-21,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,14:00,2
-22,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,11,O Rei do Pedaço,Comédia,Livre,100,2023-12-15,16:15,2
-23,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,21:30,5
-24,4,Cinearte Rio,Rio de Janeiro,RJ,Brasil,12,Noite de Crime,Suspense,16 anos,122,2023-12-15,23:45,5
-25,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,15:30,4
-26,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,13,A Lenda do Tesouro,Aventura,Livre,128,2023-12-15,19:00,4
-27,5,Cinema Paradiso Copacabana,Rio de Janeiro,RJ,Brasil,14,Além da Imaginação,Fantasia,Livre,112,2023-12-15,17:00,1
 """
 
 reader = csv.DictReader(StringIO(csv_data))
@@ -80,15 +63,21 @@ def buy_tickets(cinema: str, movie: str, date: str, time: str, number: int ) -> 
     """
     Once you have all the information you can use this tool to book the seats   
     Args:
-        location: City name
-        date: Activity date (YYYY-MM-DD)
-        preferences: Activity preferences/requirements
+        cinema: str, 
+        movie: str, 
+        date: str, 
+        time: str, 
+        number: int 
         
     Returns:
         Dictionary containing activity options
     """
     # Implement actual activity search logic here
-    return "ticket bought"
+    return json.dumps({
+        "seats": [
+            {"name": "Chaise", "description": "More confortable sofa", "price": 65},
+            {"name": "cadeira", "description": "Regular chair", "price": 85},
+            {"name": "cadeira", "description": "Regular chair", "price": 120}]})
 
 tools = [buy_tickets, look_session]
 tool_node = ToolNode(tools) 
